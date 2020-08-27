@@ -128,8 +128,8 @@ const Signin = () => {
 
   return (
     <Base
-      title="Sign In page"
-      description="A page for user to sign in!"
+      title="Sign In"
+      description=""
       className="container-fluid p-4"
     >
       {loadingMessage()}

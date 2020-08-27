@@ -170,8 +170,8 @@ const Signup = () => {
 
   return (
     <Base
-      title="Sign up page"
-      description="A page for user to sign up!"
+      title="Sign up"
+      description=""
       className="container-fluid p-4"
     >
    
